@@ -36,6 +36,14 @@ The model answers: what is the probability that the scheme's funding level (asse
 
 Under these assumptions the scheme has about a 4 in 10 chance of being underfunded after 10 years, longer lives push that to about 43%, and contributions of around 30% of payroll reduce it to about 1 in 5.
 
+### Charts
+
+![Funding level over 10 years](images/chart1_funding_fan.png)
+
+![Funding level at year 10](images/chart2_year10_distribution.png)
+
+![Deficit probability by contribution rate](images/chart3_contributions.png)
+
 ## 3. How the model works
 
 1. **Members.** 500 synthetic active members aged 30 to 59, with salaries around ₹12 lakh and service from age 22. Each earns a pension of 1/60 of final salary per year of service, payable from age 60.
