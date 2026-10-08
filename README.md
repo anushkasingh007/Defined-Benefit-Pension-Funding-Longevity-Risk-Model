@@ -38,11 +38,11 @@ Under these assumptions the scheme has about a 4 in 10 chance of being underfund
 
 ### Charts
 
-![Funding level over 10 years](images/chart1_funding_fan.png)
+![Funding level over 10 years](chart1_funding_fan.png)
 
-![Funding level at year 10](images/chart2_year10_distribution.png)
+![Funding level at year 10](chart2_year10_distribution.png)
 
-![Deficit probability by contribution rate](images/chart3_contributions.png)
+![Deficit probability by contribution rate](chart3_contributions.png)
 
 ## 3. How the model works
 
